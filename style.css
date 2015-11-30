@@ -1,0 +1,30 @@
+h1{
+	color:#BD8D46;
+	text-align: center;
+	background-size: helvitia;
+	font-size: 50px;
+
+}
+p {
+	text-align: left;
+	position: absolute;
+	left:400px;
+	color: black;
+	
+}
+img {
+
+	position: absolute;
+		left:0;
+		width: 260px;
+		height: 500px;
+	}
+
+#article1{
+	left: 500px;
+position: absolute;
+color: #A7A37E;
+background-size: helvitia;
+
+
+}
